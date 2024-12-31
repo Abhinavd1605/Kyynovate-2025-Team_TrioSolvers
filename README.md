@@ -143,6 +143,12 @@ Sentiment analysis, also known as **opinion mining**, helps businesses understan
 2. **Sentiment Distribution**:
    - Real-time graph showing proportions of positive and negative sentiments.
 
+![Prediction Page](images/1.png)
+*Word Cloud*
+
+![Prediction Page](images/2.png)
+*Sentiment Results*
+
 ---
 
 ## Steps to Run
