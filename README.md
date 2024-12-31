@@ -132,9 +132,9 @@ Sentiment analysis, also known as **opinion mining**, helps businesses understan
 - **Random Forest Accuracy**: 90%
 - **BERT Accuracy**: 95%
 - **Hybrid Ensemble Accuracy**: 97%
-- 
+  
 ![Random Forest Results](images/r.png)
-*Random Forest Results
+*Random Forest Results*
 
 ### Visual Insights
 1. **Trending Topics**:
