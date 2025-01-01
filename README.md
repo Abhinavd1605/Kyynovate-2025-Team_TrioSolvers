@@ -50,7 +50,7 @@ The **Two-Class Sentiment Analysis** project leverages state-of-the-art Natural 
 4. [System Architecture](#system-architecture)
 5. [Implementation](#implementation)
 6. [Results](#results)
-7. [How to Run](#how-to-run)
+7. [How to Run](#steps-to-run)
 8. [Future Work](#future-work)
 9. [References](#references)
 
