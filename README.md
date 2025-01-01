@@ -172,7 +172,10 @@ Sentiment analysis, also known as **opinion mining**, helps businesses understan
 5. **Access the application in your browser:**
    ```bash
    (http://127.0.0.1:5000/)
-
+6. **Click on Get Started**
+7. **Enter your text**
+8. **Click Analyze**
+   
 ## Future Work
 
 - **Multilingual Support**: Extend to non-English text using multilingual BERT models.
