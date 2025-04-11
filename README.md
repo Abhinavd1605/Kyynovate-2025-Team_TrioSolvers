@@ -37,7 +37,6 @@ The **Two-Class Sentiment Analysis** project leverages state-of-the-art Natural 
 ## Team Members
 - **D. Chaitanya Abhinav**
 - **K. Pranay Sai**
-- **K. Bala Sai Manvitha**
 
 **Institution:** IIITDM Kancheepuram
 
